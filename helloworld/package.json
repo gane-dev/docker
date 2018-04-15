@@ -1,0 +1,9 @@
+{
+  "name": "hw-sample",
+  "version": "0.0.1",
+  "description": "A sample Hello world",
+  "main": "helloworld.js",
+  "scripts": {
+    "start": "node helloworld.js"
+ }
+}
